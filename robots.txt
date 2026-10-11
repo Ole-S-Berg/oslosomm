@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oslosomm.no/sitemap.xml
